@@ -1,10 +1,10 @@
 def square_array(array)
-  newArray = []
+  # newArray = []
   
-  array.each do |number|
-    number **= 2
-    newArray << number
-  end
+  # array.each do |number|
+  #   number **= 2
+  #   newArray << number
+  # end
 
-  newArray
+  # newArray
 end
