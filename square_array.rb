@@ -7,4 +7,7 @@ def square_array(array)
   # end
 
   # newArray
+  array.collect!{
+    
+  }
 end
